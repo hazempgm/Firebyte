@@ -7,3 +7,5 @@ project(
     LANGUAGES CXX
 )
 
+
+add_subdirectory("Firebyte")
